@@ -42,7 +42,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Kuala_Lumpur',
 
     /*
     |--------------------------------------------------------------------------
@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'en-GB',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE_ME!!!!!!!',
+    'key' => 'zHnBuXP83ouYTSBXTujFpO9VkNqzCQZy',
 
     'cipher' => MCRYPT_RIJNDAEL_128,
 
